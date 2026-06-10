@@ -2,5 +2,5 @@
 
 Este blog documenta aprendizados obtidos durante o desenvolvimento do projeto Sword & Ledger.
 
-[Index](/)
-[Artigos](/articles/)
+[Index](./)
+[Articles](articles/)

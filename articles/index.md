@@ -4,5 +4,5 @@
 
 - Artigo de Teste
 
-[Index](/)
-[Sobre](/about/)
+[Index](../)
+[Sobre](../about.md)
